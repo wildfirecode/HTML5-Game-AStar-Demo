@@ -1,0 +1,23 @@
+{
+  "name": "html5-game-astar-demo",
+  "version": "1.0.0",
+  "description": "If you have bower installed then you can install it with the following command:",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/pathfinding": "0.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildfirecode/HTML5-Game-AStar-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildfirecode/HTML5-Game-AStar-Demo/issues"
+  },
+  "homepage": "https://github.com/wildfirecode/HTML5-Game-AStar-Demo#readme"
+}
